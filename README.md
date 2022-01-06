@@ -14,6 +14,14 @@ and the Flutter guide for
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
 
+## References
+[app-store-scraper](https://github.com/facundoolano/app-store-scraper)
+[google-play-scraper](https://github.com/facundoolano/google-play-scraper)
+
+```dart
+final theFinalGoal = "the dart API for scraping the entire data in all app markets";
+```
+
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
